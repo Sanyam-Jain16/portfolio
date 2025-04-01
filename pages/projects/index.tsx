@@ -64,7 +64,7 @@ const Project = () => {
                     data-nimg="1"
                     className="rounded transition group-hover:border-slate-200/30 sm:order-1 sm:col-span-2 sm:translate-y-1"
                     style={{ color: "transparent" }}
-                    src={`/images/projects/${project.thumbnailFileName}`}
+                    src={`https://sanyam-jain16.github.io/portfolio/images/projects/${project.thumbnailFileName}`}
                   />
                 </div>
               </li>

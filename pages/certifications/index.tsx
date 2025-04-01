@@ -35,12 +35,15 @@ const Certifications = () => {
               <div className="relative group">
                 <Image
                   className="w-full h-auto transition-transform duration-300 transform hover:scale-110 cursor-pointer"
-                  src={`/certificates/${certificate.fileName}`}
+                  src={`https://sanyam-jain16.github.io/portfolio/certificates/${certificate.fileName}`}
                   width={150}
                   height={200}
                   alt={certificate.title}
                   onClick={() =>
-                    handleOpenModal("/certificates/" + certificate.fileName)
+                    handleOpenModal(
+                      "https://sanyam-jain16.github.io/portfolio/certificates/" +
+                        certificate.fileName
+                    )
                   }
                 />
                 <div className="absolute bottom-0 left-0 right-0 bg-black bg-opacity-75 text-white p-2 opacity-0 group-hover:opacity-100 transition-opacity duration-300">
