@@ -2,8 +2,6 @@
 
 This is the portfolio website that you can clone and use to build your own portfolio by just doing some tiny changes.
 
-![Overview](https://github.com/Sanyam-Jain16/portfolio)
-
 Built with:
 
 - [NextJS](https://nextjs.org/)
