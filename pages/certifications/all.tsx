@@ -2,7 +2,7 @@ import Image from "next/image";
 import { useState } from "react";
 import Modal from "@/components/Modal";
 import Link from "next/link";
-import { certificates } from "@/utils/constant";
+import { allCertificates } from "@/utils/constant";
 
 const AllCertifications = () => {
   const [modalOpen, setModalOpen] = useState(false);
@@ -50,7 +50,7 @@ const AllCertifications = () => {
               All Certifications
             </h1>
             <div className="w-full mt-12 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
-              {certificates.map((certificate, index) => (
+              {allCertificates.map((certificate, index) => (
                 <div key={index} className="relative group">
                   <Image
                     className="w-full h-auto transition-transform duration-300 transform hover:scale-105 cursor-pointer"

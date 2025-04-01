@@ -100,6 +100,20 @@ export const certificates = [
     fileName: "hackerrank_problem_solving_certificate.jpg",
   },
 ];
+export const allCertificates = [
+  {
+    title: "Namste React JS Course Completion Certificate",
+    fileName: "namaste-react.jpg",
+  },
+  {
+    title: "Hacerrank Problem Solving Certificate",
+    fileName: "hackerrank_problem_solving_certificate.jpg",
+  },
+  {
+    title: "Scrumstudy Agile Master Certified (SAMC)",
+    fileName: "samc.jpg",
+  },
+];
 
 export const detailExperiences: DetailedExperience[] = [
   {
