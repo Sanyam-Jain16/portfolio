@@ -105,7 +105,7 @@ export const detailExperiences: DetailedExperience[] = [
   {
     period: "June 2022 — Present",
     company: "Speed",
-    logo: "https://sanyam-jain16.github.io/portfolio/images/experiences/speed-img.svg",
+    logo: "https://sanyam-jain16.github.io/images/experiences/speed-img.svg",
     role: "Software Engineer",
     companyUrl: "https://www.tryspeed.com/",
     description: [
@@ -154,7 +154,7 @@ export const detailExperiences: DetailedExperience[] = [
   {
     period: "May 2021 — May 2022",
     company: "Krishaweb Technologies",
-    logo: "https://sanyam-jain16.github.io/portfolio/images/experiences/krishaweb-logo.jpg",
+    logo: "https://sanyam-jain16.github.io/images/experiences/krishaweb-logo.jpg",
     role: "Frontend Developer",
     companyUrl: "https://www.krishaweb.com/",
     description: [
@@ -202,7 +202,7 @@ export const detailExperiences: DetailedExperience[] = [
   {
     period: "January 2021 — April 2021",
     company: "Zeus Learning",
-    logo: "https://sanyam-jain16.github.io/portfolio/images/experiences/zeus-img.png",
+    logo: "https://sanyam-jain16.github.io/images/experiences/zeus-img.png",
     role: "Software Developer Intern",
     companyUrl: "http://zeuslearning.com/",
     description: [
@@ -241,7 +241,7 @@ export const experiences: ExperienceItem[] = [
   {
     period: "June 2022 — Present",
     company: "Speed",
-    logo: "https://sanyam-jain16.github.io/portfolio/images/experiences/speed-img.svg",
+    logo: "https://sanyam-jain16.github.io/images/experiences/speed-img.svg",
     role: "Software Engineer",
     companyUrl: "https://www.tryspeed.com/",
     description: [
@@ -266,7 +266,7 @@ export const experiences: ExperienceItem[] = [
   {
     period: "May 2021 — May 2022",
     company: "Krishaweb Technologies",
-    logo: "https://sanyam-jain16.github.io/portfolio/images/experiences/krishaweb-logo.jpg",
+    logo: "https://sanyam-jain16.github.io/images/experiences/krishaweb-logo.jpg",
     role: "Frontend Developer",
     companyUrl: "https://www.krishaweb.com/",
     description: [
@@ -289,7 +289,7 @@ export const experiences: ExperienceItem[] = [
   {
     period: "January 2021 — April 2021",
     company: "Zeus Learning",
-    logo: "https://sanyam-jain16.github.io/portfolio/images/experiences/zeus-img.png",
+    logo: "https://sanyam-jain16.github.io/images/experiences/zeus-img.png",
     role: "Software Developer Intern",
     companyUrl: "http://zeuslearning.com/",
     description: [

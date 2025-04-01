@@ -33,7 +33,7 @@ const actionButtons = [
     ),
   },
   {
-    href: "https://sanyam-jain16.github.io/portfolio/resume/SanyamJainResume_FullStack.pdf",
+    href: "https://sanyam-jain16.github.io/resume/SanyamJainResume_FullStack.pdf",
     label: "Download CV",
     icon: (
       <svg

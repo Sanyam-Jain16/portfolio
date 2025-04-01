@@ -94,7 +94,7 @@ const Education = () => {
                   data-nimg="1"
                   className="rounded transition group-hover:border-slate-200/30 sm:order-1 sm:col-span-2 sm:translate-y-1"
                   style={{ color: "transparent" }}
-                  src={`https://sanyam-jain16.github.io/portfolio/images/educations/daiict.png`}
+                  src={`https://sanyam-jain16.github.io/images/educations/daiict.png`}
                 />
               </div>
             </li>
@@ -166,7 +166,7 @@ const Education = () => {
                   className="rounded transition group-hover:border-slate-200/30 sm:order-1 sm:col-span-2 sm:translate-y-1"
                   style={{ color: "transparent" }}
                   src={
-                    "https://sanyam-jain16.github.io/portfolio/images/educations/mlsu.png"
+                    "https://sanyam-jain16.github.io/images/educations/mlsu.png"
                   }
                 />
               </div>
